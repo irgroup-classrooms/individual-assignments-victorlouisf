@@ -1,0 +1,10 @@
+example.com
+gmail.com
+yahoo.com
+hotmail.com
+company.com
+domain.org
+domain.net
+webmail.com
+provider.com
+university.edu

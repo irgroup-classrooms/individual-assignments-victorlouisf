@@ -1,0 +1,10 @@
+john.doe@example.com
+jane.smith@gmail.com
+mjohnson@yahoo.com
+lharris@hotmail.com
+rbrown@company.com
+alice.white@domain.org
+dgreen@domain.net
+eblack@webmail.com
+cblue@provider.com
+ssilver@university.edu
